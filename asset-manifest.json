@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/teslaclone/static/css/main.9f00f89e.chunk.css",
+    "main.js": "/teslaclone/static/js/main.704f02cf.chunk.js",
+    "main.js.map": "/teslaclone/static/js/main.704f02cf.chunk.js.map",
+    "runtime-main.js": "/teslaclone/static/js/runtime-main.561fe015.js",
+    "runtime-main.js.map": "/teslaclone/static/js/runtime-main.561fe015.js.map",
+    "static/js/2.f224a8aa.chunk.js": "/teslaclone/static/js/2.f224a8aa.chunk.js",
+    "static/js/2.f224a8aa.chunk.js.map": "/teslaclone/static/js/2.f224a8aa.chunk.js.map",
+    "index.html": "/teslaclone/index.html",
+    "precache-manifest.a58be5e62d2c281d09153b042df302b2.js": "/teslaclone/precache-manifest.a58be5e62d2c281d09153b042df302b2.js",
+    "service-worker.js": "/teslaclone/service-worker.js",
+    "static/css/main.9f00f89e.chunk.css.map": "/teslaclone/static/css/main.9f00f89e.chunk.css.map",
+    "static/js/2.f224a8aa.chunk.js.LICENSE.txt": "/teslaclone/static/js/2.f224a8aa.chunk.js.LICENSE.txt",
+    "static/media/SideBar.css": "/teslaclone/static/media/Gotham Medium.e19c20e9.otf",
+    "static/media/hiclipart.com.png": "/teslaclone/static/media/hiclipart.com.7261d83c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.561fe015.js",
+    "static/js/2.f224a8aa.chunk.js",
+    "static/css/main.9f00f89e.chunk.css",
+    "static/js/main.704f02cf.chunk.js"
+  ]
+}
