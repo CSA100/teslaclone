@@ -1,11 +1,32 @@
 import React from "react";
 import "./FloatingDetails.css";
+import { Link } from "react-router-dom";
+
 class FloatingDetailsV2 extends React.Component {
   state = {
     scrollPosition: 0,
     opacity: 1,
     slide: 0,
-    content: ["Header 1", "Header 2", "Header 3", "Header 4"],
+    content: [
+      <div id="lol" className="floatingDetails">
+        <div className="details__title">Model Y</div>
+        <div className="details__subTitle">
+          <p className="subTitle__left">Order Online for </p>
+          <Link className="subTitle__right">Touchless Delivery</Link>
+        </div>
+        <div className="details__footer">
+          <Link className="clickable">
+            <div className="buttonOne">CUSTOM ORDER</div>
+          </Link>
+          <Link className="clickable">
+            <div className="buttonTwo">LEARN MORE</div>
+          </Link>
+        </div>
+      </div>,
+      "Header 2",
+      "Header 3",
+      "Header 4",
+    ],
   };
 
   componentDidMount() {
